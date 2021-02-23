@@ -3,7 +3,7 @@
 
 ![Daniel Fasula's github stats](https://github-readme-stats.vercel.app/api?username=danielfasula&theme=midnight-purple&show_icons=true&count_private=true)
 <a href="/" align="left">
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfasula&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 <!--
 **danielfasula/danielfasula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
