@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! My name is Daniel Fasula. I am a developer in the making, and looking to pave my way through the world of web development. 
 
 
 ![Daniel Fasula's github stats](https://github-readme-stats.vercel.app/api?username=danielfasula&theme=midnight-purple&show_icons=true&count_private=true)
