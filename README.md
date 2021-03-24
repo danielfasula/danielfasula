@@ -8,7 +8,7 @@
 
 How To Reach Me:
 
-Email: danielfasula@gmail.com
+Email: danielfasula@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/danielfasula/
 
 <!--
