@@ -5,6 +5,12 @@
 <a href="/" align="left">
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfasula&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </a>
+
+How To Reach Me:
+
+Email: danielfasula@gmail.com
+LinkedIn: https://www.linkedin.com/in/danielfasula/
+
 <!--
 **danielfasula/danielfasula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
